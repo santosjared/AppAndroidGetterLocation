@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">gpsMinibus</string>
+    <string name="titleCard">Conectar con el sistema web Microbuses</string>
+    <string name="conectar">Conectar</string>
+    <string name="description">Descripción</string>
+    <string name="server">Servidor</string>
+    <string name="registrar">Editar campos</string>
+    <string name="nombre">Nombre de Gps</string>
+    <string name="code">Codigo de registro</string>
+    <string name="save">Registrar</string>
+    <string name="infotxt">Tu dispositivo móvil se comportará como un aparato GPS, al conectar se compartirá la ubicación actual de tu
+        dispositivo. Para conectar tu teléfono con el sistema web de microbuses inserte los campos proporcionado por el sistema web
+        de microbuses.</string>
+    <string name="register">Registrar</string>
+    <string name="clave">Clave</string>
+    <string name="usuario">usuario</string>
+</resources>
