@@ -8,10 +8,12 @@
     <string name="nombre">Nombre de Gps</string>
     <string name="code">Codigo de registro</string>
     <string name="save">Registrar</string>
+    <string name="channel_description">notificaciones </string>
+    <string name="channel_name">Nombre del canal</string>
     <string name="infotxt">Tu dispositivo móvil se comportará como un aparato GPS, al conectar se compartirá la ubicación actual de tu
         dispositivo. Para conectar tu teléfono con el sistema web de microbuses inserte los campos proporcionado por el sistema web
         de microbuses.</string>
     <string name="register">Registrar</string>
-    <string name="clave">Clave</string>
-    <string name="usuario">usuario</string>
+    <string name="clave">Contraseña</string>
+    <string name="usuario">Email</string>
 </resources>

@@ -35,8 +35,8 @@ public class SocketManager {
         }
 
         try {
-            socket = IO.socket(serverUrl);
-            socket.connect();
+                socket = IO.socket(serverUrl);
+                socket.connect();
             socket.on(Socket.EVENT_CONNECT, args -> {
                 isSuccess = true;
                 isError = false;

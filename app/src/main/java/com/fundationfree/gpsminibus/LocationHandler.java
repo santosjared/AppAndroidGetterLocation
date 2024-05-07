@@ -20,7 +20,6 @@ import com.google.android.gms.location.LocationServices;
 public class LocationHandler {
 
     private static final int LOCATION_PERMISSION_REQUEST_CODE = 1001;
-
     private final Context context;
     private final FusedLocationProviderClient fusedLocationClient;
     private final LocationRequest locationRequest;
